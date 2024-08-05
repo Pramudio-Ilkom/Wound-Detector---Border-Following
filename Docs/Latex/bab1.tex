@@ -1,0 +1,312 @@
+%!TEX root = ./template-skripsi.tex
+%-------------------------------------------------------------------------------
+% 								BAB I
+% 							LATAR BELAKANG
+%-------------------------------------------------------------------------------
+
+\chapter{PENDAHULUAN}
+
+\section{Latar Belakang Masalah}
+
+Kulit merupakan perlindungan pertama manusia dalam menjaga 
+tubuhnya dari berbagai macam substansi. Apabila kulit 
+terluka, maka diperlukan penanganan yang baik agar tidak 
+terjadi infeksi.  Luka adalah keadaan di mana fungsi 
+anatomis kulit normal mengalami kerusakan akibat proses 
+patologis yang berasal dari internal maupun eksternal dan 
+mengenai organ tertentu. Ketika luka tidak terinfeksi, 
+maka pada normalnya luka tersebut akan melakukan 
+penyembuhan. Proses penyembuhan terdapat beberapa fase, 
+yaitu: hemostasis (beberapa jam pasca-terjadinya luka), 
+inflamasi (1 - 3 hari), proliferasi (4 - 21 hari), dan 
+remodelling (21 hari - 1 tahun). Fase-fase penyembuhan luka 
+terjadi secara bertahap, namun dapat terjadi secara 
+bersamaan (\textit{overlap}) (\cite{simon}).
+
+Dari beberapa kondisi luka, terdapat luka yang proses 
+penyembuhannya tidak normal dengan durasi fase-fase yang 
+sesuai. Kondisi tersebut disebut dengan luka kronis 
+(\cite{landen}), kondisi ini dapat memiliki kaitan dengan 
+berbagai faktor yang memperlambat penyembuhan luka seperti 
+adanya penyakit kronis, insufisiensi vaskuler, diabetes, 
+gangguan nutrisi, penuaan, dan berbagai faktor lokal pada 
+luka (tekanan, infeksi, dan edema). Secara umum, luka 
+kronis dapat terjadi akibat ulkus vena, ulkus arteri, ulkus 
+dekubitus, dan ulkus diabetik (\cite{zhao}).
+
+Hal paling pertama yang dilakukan untuk menangani suatu 
+masalah adalah mengidentifikasi masalah tersebut, luka 
+tidak menjadi pengecualian. Pengidentifikasian luka yang 
+akurat dapat membantu memberikan diagnosa yang akurat, 
+penanganan luka yang tepat, memantau perbaikan luka, 
+menghindari terjadinya komplikasi, serta dapat mengurangi 
+biaya perawatan luka. Pengindentifikasian luka kronis 
+umumnya didasarkan pada dua jenis tinjauan klinis, yaitu: 
+tinjauan visual terhadap warna dominan luka dengan 
+mengidentifikasi jaringan luka, dan tinjauan manual 
+terhadap bentuk luka (area, perimeter, kedalaman, dan 
+lain-lain) dengan pemeriksaan luka. Saat ini, tersedia 
+dua teknik untuk pemeriksaan ini, yang pertama adalah 
+metode manual langsung yang digunakan oleh dokter dan 
+perawat untuk mengukur secara berkala dimensi luka 
+menggunakan penggaris, dan teknik yang kedua adalah melacak 
+batas luka pada kertas kalkir transparan yang ditempatkan 
+pada kotak metrik. Kertas kalkir merupakan sebuah kertas 
+yang memiliki permukaan yang tembus pandang dan sering 
+digunakan oleh desainer untuk merancang desain atau gambar. 
+Kertas ini memiliki struktur seperti kaca yang dapat 
+dilihat secara tembus pandang ke bagian belakang kertas 
+kalkir tersebut. Permukaan luka kemudian ditentukan dengan 
+menghitung jumlah kotak secara manual setelah memindai 
+gambar. Namun, kedua metode tersebut tidak dapat mengukur 
+dimensi luka secara akurat dan kertas kalkir yang digunakan 
+dapat menyebabkan infeksi pada luka (\cite{GuptaRTWS}). Salah 
+satu metode yang diusulkan untuk mengatasi masalah ini 
+adalah dengan menggunakan metode yang berbasis 
+\textit{digital image processing}.
+
+Metode berbasis \textit{digital image processing} merupakan 
+alternatif untuk penilaian luka karena dapat memberikan 
+langkah-langkah yang objektif, lebih akurat, dan dapat 
+direproduksi. Salah satu keuntungan besarnya adalah metode 
+ini memiliki resiko yang lebih rendah karena tidak ada kontak antara 
+luka dan sistem pengukuran. Segmentasi citra merupakan 
+proses mempartisi gambar digital menjadi beberapa segmen 
+(set piksel, disebut juga \textit{superpixel}) yang 
+memiliki fitur atau atribut yang sama. Segmentasi bertujuan 
+untuk menyederhanakan atau mengubah representasi suatu 
+citra menjadi sesuatu yang lebih bermakna dan lebih mudah 
+untuk dianalisis. Segmentasi citra biasa digunakan untuk 
+menemukan objek dan batas (seperti garis, kurva, dan 
+lain-lain) dalam gambar (\cite{ShmmalaCBI}). Biasanya 
+segmentasi menggunakan informasi lokal dalam gambar digital 
+untuk menghitung segmentasi terbaik, seperti informasi 
+warna yang digunakan untuk membuat histogram atau informasi 
+yang mengindikasikan tepi, batas atau informasi tekstur 
+(\cite{khattab}).
+
+Segmentasi warna citra (\textit{color image segmentation}) 
+didasarkan pada fitur warna piksel gambar yang 
+mengasumsikan bahwa warna-warna homogen pada gambar 
+bersesuaian dengan kelompok yang terpisah. Dengan kata 
+lain, setiap kelompok mendefinisikan kelas piksel yang 
+memiliki properti warna yang sama. Karena hasil segmentasi 
+bergantung pada ruang warna (\textit{color space}) yang 
+digunakan, tidak ada ruang warna tunggal yang dapat 
+memberikan hasil yang dapat diterima untuk semua jenis 
+gambar. Karena alasan ini, banyak penulis yang mencoba 
+menentukan ruang warna yang sesuai dengan masalah 
+segmentasi warna citra spesifik mereka (\cite{khattab}). 
+Beberapa macam dari ruang warna (\textit{color space}), 
+yaitu \textit{RGB, CMY(K), HSV, CIE, L*a*b, L*u*v,} dan 
+\textit{YCrCb}. Setiap ruang warna (\textit{color space}) 
+mempunyai sekurang-kurangnya 3 elemen warna dasar.
+
+Salah satu cara mengidentifikasi luka adalah dengan 
+tinjauan visual untuk identifikasi jaringan luka dari 
+warna dominan. Warna luka akan memberikan banyak informasi 
+penting berkaitan dengan perkiraan waktu penyembuhan luka, 
+kondisi umum luka apakah dalam keadaan baik atau memburuk, 
+dan risiko komplikasi. Warna tersebut dapat dipisahkan 
+menjadi tiga warna, yaitu merah, kuning, dan hitam. 
+Tinjauan visual ini, bisa dilakukan dengan metode 
+segmentasi warna citra. Salah satu metode segmentasi warna 
+citra yang telah dilakukan Aprilia Khairunnisa adalah 
+dengan melihat ruang warna LAB terhadap segmentasi warna 
+\textit{red, yellow, and black}. Proses segmentasi nya bisa 
+dilakukan dengan menggunakan dua metode yaitu 
+\textit{k-means} atau \textit{mean shift}. 
+\textit{K-means} merupakan metode pengelompokan dari 
+sejumlah \textit{cluster} yang terpisah. "K" mengacu pada 
+jumlah \textit{cluster} yang ditentukan (\cite{YadavSeg}). 
+Metode \textit{k-means} mempartisi \textit{n-set} input 
+data menjadi \textit{k-cluster} di mana setiap set input 
+data termasuk ke dalam cluster dengan mean terdekat 
+(\cite{ZhengX}). Metode ini akan mempartisi data yang 
+berkarakteristik sama ke dalam suatu kelompok yang sama dan 
+data yang lainnya ke kelompok yang berbeda 
+(\cite{Gustientiedina}). \textit{Mean shift} adalah teknik 
+analisis \textit{non-parametic feature space} untuk mencari 
+nilai maksimum dari fungsi kerapatan atau kepadatan yang 
+diberikan dari data diskrit yang ada di fungsi tersebut. 
+\textit{Mean shift} merupakan prosedur berulang (iteratif) 
+sederhana yang menggeser setiap titik data ke rata-rata 
+(\textit{mean}) titik data di daerahnya. Algoritma 
+\textit{mean shift} disebut juga sebagai algoritma 
+pencarian mode (\cite{ChengY}). 
+
+Dari metode yang dilakukan oleh Aprilia Khairunnisa terdapat 
+kekurangan, di mana hasil dari penelitiannya belum dapat 
+memperlihatkan pengaruh dari penggunaan model warna LAB pada 
+proses segmentasi (\cite{Aprilia}). ada satu hal yang masih 
+dilakukan secara manual dalam proses metode tersebut, yaitu 
+memasukkan hanya gambar luka saja, tanpa sekitar lukanya. 
+Hal ini bisa dikembangkan dengan memasukan metode 
+segmentasi yang mendeteksi tepi luka yaitu 
+\textit{active contour}. 
+
+Model \textit{active contour}, juga disebut \textit{Snake}, 
+adalah \textit{framework} dalam pengolahan citra yang 
+diperkenalkan oleh Michael Kass, Andrew Witkin, dan Demetri 
+Terzopoulos untuk menggambarkan garis objek dari gambar 2D 
+yang mungkin \textit{noisy}. Model \textit{active contour} 
+populer dalam pengolahan citra, dan active contour banyak 
+digunakan dalam aplikasi seperti \textit{object tracking}, 
+\textit{shape recognition}, segmentasi, deteksi tepi, dan 
+pencocokan stereo. \textit{Active contour} merupakan 
+peminimalisir energi, dapat dideformasi yang terpengaruh 
+oleh \textit{constraint} dan \textit{image forces} yang 
+menarik ke arah objek kontur dan gaya di dalam yang menahan 
+deformasi. \textit{Active contour} bisa diartikan sebagai 
+model yang bisa dideformasi kepada citra dengan 
+meminimalisir energi. Dalam dua dimensi, model bentuk aktif 
+mewakili versi diskrit dari pendekatan ini, mengambil 
+keuntungan dari model distribusi titik untuk membatasi 
+rentang bentuk ke domain eksplisit yang dipelajari dari set 
+pelatihan (\cite{kass}).
+
+\emph{Active contour} merupakan metode yang biasanya tidak 
+digunakan sendiri, dikarenakan metode ini perlu mengetahui 
+bentuk suatu benda dan interaksi pengguna untuk mendapatkan 
+hasil yang diinginkan. Pada Teknik yang dilakukan oleh 
+Muhammad Rizki setelah memasukan citra dimulai dengan 
+mengkonversi data \textit{RGB} menjadi \textit{grayscale}. 
+Lalu gambar \textit{grayscale} tersebut mulai dideteksi 
+menggunakan active contour di mana inisialisasi kurva 
+awalnya yang seharusnya integer diubah dengan 
+\textit{float}. Untuk rumusan energi internal, tidak diubah 
+dari \textit{active contour} yang asli, tapi ketika masuk 
+ke energi eksternal, persamaan yang dipakai berbeda sedikit. 
+Setelah mendapatkan energi dari citra tersebut, dimulai 
+proses update intersi kurva. Proses tersebut menggunakan 
+memakai metode gradien arah direction untuk mendapatkan 
+turunan pertama citra yang akan digunakan ke dalam rumus, 
+lalu dilakukan iterasi yang dihitung melalui proses 
+interpolasi (\cite{MRizki}).
+
+Interpolasi dalam matematika umum adalah proses membuat 
+suku-suku peralihan dari titik yang diketahui. Dalam 
+pemrosesan gambar, biasanya digunakan untuk \textit{image scaling}, 
+\textit{image resampling}, dan \textit{image resize}. Ada banyak algoritma 
+yang saat ini digunakan untuk mengubah gambar digital. 
+Kebanyakan dari mereka berupaya mereproduksi replika aslinya 
+yang menarik secara visual. Sekarang seiring dengan 
+teknologi untuk area tampilan yang lebih kecil untuk dilihat 
+pada berbagai perangkat, ukuran gambar umumnya diambil 
+sampelnya (atau disubsampel atau dikurangi) untuk 
+menghasilkan thumbnail. Pengambilan sampel gambar 
+(atau pembesaran atau interpolasi) paling umum dilakukan 
+pada monitor atau televisi berukuran layar besar 
+(\cite{Parsania}). Interpolasi yang akan dipakai penulis 
+akan berdasarkan pada metode \textbf{NURBS} 
+(\textit{Non-Uniform Rational B-Splines})(\cite{PiegTill96}) 
+yang merupakan interpolasi penghalusan suatu kurva, ini 
+bertujuan untuk menambahkan akurasi dalam pendeteksian luka, 
+di mana pendeteksinya hanya menangkap tepi secara kasar.
+
+seperti yang sudah tertuliskan dalam penilitian Muhammad 
+Rizki, sebaiknya \textit{active contour} digantikan untuk 
+meningkatkan akurasi deteksi luka (\cite{MRizki}). Dari metode 
+yang dilakukan Muhammad Rizki, terdapat 
+keunggulan di mana arah tepinya lebih jelas dibanding dengan 
+citra asli sehingga membantu \textit{active contour} untuk 
+melihat tepi suatu citra, tetapi ketika dilihat baik-baik, 
+hasil dari gradien citra arah yang menggunakan interpolasi 
+menambahkan arah tepi yang tidak diinginkan sehingga 
+mengganggu pendeteksian \textit{active contour}. Untuk 
+mengatasi masalah tersebut, penulis akan menggunakan 
+algoritma \textit{Border Following} Suzuki.
+
+Algoritma \textit{Border Following} 
+suzuki merupakan salah satu algoritma topologi 
+gambar biner digital yang pertama mendefinisikan hubungan 
+hirarki antar pembatasan dan membedakan antara batas luar 
+atau batas lubang.
+Algoritma ini memindai gambar dari kiri ke kanan, mengecek 
+ada nya objek piksel pada piksel yang dipindai. algoritma ini 
+akan memindai sekitar piksel yang sedang dipindai untuk 
+menentukan apakah piksel ini akan naik derajatnya. 
+apabila sudah selesai pemindaian piksel ini, akan pindah 
+pemindaian ke arah jarum jam, prioritas kanan. proses 
+ini akan diulang sampai tidak ada piksel yang bisa digantikan
+derajatnya. setelah sudah mendapatkan dari derajat dari 
+semua piksel, maka bisa dilihat batas(\textit{border}) pada
+gambar yang dipindai algoritma \textit{Border Following}(\cite{Suzuki}).
+
+Penulis menginginkan untuk mengembangkan metode yang sudah 
+pernah dilakukan oleh Muhammad Rizki(\cite{MRizki}). Penelitian ini 
+bertujuan untuk meningkatkan akurasi dalam pendeteksian 
+luka menggunakan \textit{active contour} dengan mengubah 
+metode deteksi citra dengan \textit{border following}, lalu 
+melakukan interpolasi pada hasil pendeteksian lukanya.
+Penelitian ini bertujuan untuk membantu kalangan dokter dan 
+perawat terkait penilaian luka kronis agar dapat memberikan 
+hasil aproksimasi yang lebih dekat dengan \textit{ground
+truth}(data asli yang diambil dari menggambar manual tepi luka).
+
+\section{Rumusan Masalah}
+Berdasarkan Latar belakang yang telah dikemukakan di atas, 
+Fokus permasalahan pada penelitian ini adalah “Bagaimana 
+mengembangkan pendeteksian keliling luka kronis menggunakan metode 
+\textit{border following} yang dibantu dengan interpolasi spline”.
+
+\section{Pembatasan Masalah}
+Pembatasan masalah pada penelitian ini antara lain:
+\begin{enumerate}
+	\item Pendeteksian keliling luka kronis menggunakan 
+	\textit{border following} yang dibantu dengan interpolasi 
+	terhadap data citra luka yang 
+	didapat dari penelitian luka Ns. Ratna Aryani, M.Kep, 
+	tahun 2018 (\cite{Aryani:2018}).
+	\item Penelitian dilakukan sampai mendapatkan hasil, 
+	yaitu nilai akurasi dari selisih area kurva 
+	\textit{border following} terhadap area 
+	\textit{ground truth}(data asli yang diambil dari
+	menggambar manual tepi luka).
+\end{enumerate}
+
+\section{Tujuan Penelitian}
+Tujuan penelitian ini adalah untuk melanjutkan penelitian 
+Rizki(\cite{MRizki}) dalam mendeteksi citra keliling luka dengan menggunakan metode 
+\textit{Border Following} yang ditambahkan interpolasi spline
+pada pendeteksi keliling luka kronis.
+
+\section{Manfaat Penelitian}
+\begin{enumerate}
+	\item Bagi peneliti
+		
+	Penelitian ini merupakan media penerapan ilmu 
+	pengetahuan, khususnya dalam pengembangan metode \textit{border following} 
+	dalam pengkajian luka kronis serta membantu 
+	penulis untuk menyelesaikan perkuliahan.
+		
+	\item Instansi Terkait
+	 	
+	Metode yang diajukan diharapkan dapat membuka peluang 
+	untuk diajukan ke instansi kesehatan terkait dalam 
+	proses pengkajian luka kronis.
+	
+	\item Bagi ilmu pengetahuan
+	 	
+	\begin{itemize}
+		\item Mahasiswa
+		
+		Diharapkan penelitian ini dapat membantu dalam 
+		penulisan paper yang bersangkutan dengan 
+		pendeteksian luka.
+
+		\item Bagi peneliti selanjutnya
+		
+		Diharapkan penelitian ini dapat dikembangkan oleh 
+		peneliti selanjutnya untuk mengembangkan metode dari 
+		penelitian ini.
+	\end{itemize} 			
+\end{enumerate}
+
+
+% Baris ini digunakan untuk membantu dalam melakukan sitasi
+% Karena diapit dengan comment, maka baris ini akan diabaikan
+% oleh compiler LaTeX.
+\begin{comment}
+\bibliography{daftar-pustaka}
+\end{comment}

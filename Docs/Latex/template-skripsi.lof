@@ -1,0 +1,43 @@
+\babel@toc {english}{}\relax 
+\babel@toc {bahasa}{}\relax 
+\babel@toc {bahasa}{}\relax 
+\addvspace {10\p@ }
+\babel@toc {bahasa}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \textit {surroundness} antar komponen yang terhubung (b) dan antar tepi(\textit {borders}) (c).\relax }}{8}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces kondisi \textit {starting point} dari algoritma \textit {border following} untuk tepi luar (a) dan tepi lubang (b)\relax }}{9}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Ilustrasi proses pemberian hierarki terhadap piksel citra; lingkaran pada piksel menunjukkan titik mula pindai \textit {border following}\relax }}{11}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Struktur topologi antara tepi satu dengan tepi yang lain jika menggunakan Algoritma pertama. Hasil citra (a) dan Struktur yang diekstrak (b)\relax }}{12}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Hasil penciutan blob dengan Algoritma kedua. “\#” merepresentasikan \textit {starting point} dari tepi terluar, “:” menunjukkan nilai -2.\relax }}{13}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Kurva Bézier berderajat-2.\relax }}{15}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Kurva polinomial kubik dipotong tiga segmen.\relax }}{16}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Kurva Gambar (\ref {gambar:Kurva_dipotong_tiga}) ditunjukkan dengan segmen polinomial yang direpresentasikan dalam bentuk Bézier.\relax }}{16}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces definisi rekursif dari rumus dasar B-spline.\relax }}{18}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Contoh interpolasi kurva menggunakan parameterisasi \textit {chord length} dan \textit {knot vector} yang diperoleh dengan rata-rata parameter.\relax }}{22}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Contoh interpolasi kurva dengan parameterisasi dan \textit {knot vector} berbeda.\relax }}{23}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Contoh interpolasi kurva dengan parameterisasi dan \textit {knot vector} berbeda.\relax }}{23}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Interpolasi kurva dengan derajat berbeda menggunakan parameterisasi chord length dan knot yang diperoleh dengan rata-rata.\relax }}{24}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Interpolasi kurva kubik global ke data yang berisi titik-titik kolinear (lihat garis putus-putus).\relax }}{24}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Perhitungan vektor tangen ($\textbf {V}_k$) dan turunan ($\textbf {D}_k$) untuk interpolasi kurva lokal.\relax }}{26}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces $C^{(1,1)}$ Interpolasi permukaan bikubik lokal\relax }}{29}{figure.caption.23}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Diagram alir penelitian\relax }}{32}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Hasil Interpolasi citra\relax }}{36}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Data citra luka\relax }}{41}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Validasi alat deteksi\relax }}{42}{figure.caption.27}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Kode untuk membaca citra\relax }}{43}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Kode border following\relax }}{44}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Hasil pindai \textit {border following}\relax }}{45}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Kode Global Interpolation\relax }}{45}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Kode \textit {chord length}\relax }}{46}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Kode knot vector\relax }}{46}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Kode rumus dasar (N)\relax }}{47}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Hasil Interpolasi dari deteksi \textit {border following}\relax }}{47}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Kode Bézier\relax }}{48}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Penghalusan kurva menggunakan bézier\relax }}{48}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Alat validasi\relax }}{49}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Alat validasi\relax }}{49}{figure.caption.40}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

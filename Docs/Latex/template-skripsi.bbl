@@ -1,0 +1,777 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Hafizhun}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7abe50cdcd1454b80e1bcbe7f498950c}{%
+           family={Alim},
+           familyi={A\bibinitperiod},
+           given={Hafizhun},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7abe50cdcd1454b80e1bcbe7f498950c}
+      \strng{fullhash}{7abe50cdcd1454b80e1bcbe7f498950c}
+      \strng{bibnamehash}{7abe50cdcd1454b80e1bcbe7f498950c}
+      \strng{authorbibnamehash}{7abe50cdcd1454b80e1bcbe7f498950c}
+      \strng{authornamehash}{7abe50cdcd1454b80e1bcbe7f498950c}
+      \strng{authorfullhash}{7abe50cdcd1454b80e1bcbe7f498950c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FISH MOVEMENT TRACKING MENGGUNAKAN METODE GAUSSIAN MIXTURE MODELS (GMM) DAN KALMAN FILTER}
+      \field{year}{2023}
+    \endentry
+    \entry{Aprilia}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0721217f7678dc5a15d30d3ba213675e}{%
+           family={Aprilia},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0721217f7678dc5a15d30d3ba213675e}
+      \strng{fullhash}{0721217f7678dc5a15d30d3ba213675e}
+      \strng{bibnamehash}{0721217f7678dc5a15d30d3ba213675e}
+      \strng{authorbibnamehash}{0721217f7678dc5a15d30d3ba213675e}
+      \strng{authornamehash}{0721217f7678dc5a15d30d3ba213675e}
+      \strng{authorfullhash}{0721217f7678dc5a15d30d3ba213675e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PENGARUH PENGGUNAAN COLOR MODEL LAB DALAM KALIBRASI WARNA LUKA MENGGUNAKAN METODE SEGMENTASI K-MEANS DAN MEAN SHIFT}
+      \field{year}{2021}
+    \endentry
+    \entry{Aryani:2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7336ee2eafe2139eb56cbd10ba474423}{%
+           family={Aryani},
+           familyi={A\bibinitperiod},
+           given={Ratna},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17f314018b2a920399eed09f2fc2afa5}{%
+           family={Yusro},
+           familyi={Y\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ccd6e88d066c6b8fa92ccb815bf090fd}{%
+           family={Suryana},
+           familyi={S\bibinitperiod},
+           given={M\bibnamedelima Eka},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=736df7bc7387d4057076c269c626c90a}{%
+           family={Firmansyah},
+           familyi={F\bibinitperiod},
+           given={Imam},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9873da17222150c8c6fed9d1429a6e1b}
+      \strng{fullhash}{805778c6f5ef54446c5273d026142057}
+      \strng{bibnamehash}{9873da17222150c8c6fed9d1429a6e1b}
+      \strng{authorbibnamehash}{9873da17222150c8c6fed9d1429a6e1b}
+      \strng{authornamehash}{9873da17222150c8c6fed9d1429a6e1b}
+      \strng{authorfullhash}{805778c6f5ef54446c5273d026142057}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Buku Panduan: Rancang Bangun Aplikasi Mobile Android Sebagai Alat Deteksi Warna Dasar Luka Dalam Membantu Proses Pengkajian Luka Kronis dengan Nekrosis}}
+      \field{year}{2018}
+      \verb{file}
+      \verb :D\:/Documents/file apis/kebutuhan kuliah/mata kuliah/smester 7/SKRIPSI/paper/(Ratna,2018)_BUKU PANDUAN RANCANG BANGUN APLIKASI MOBILE ANDROID.pdf:pdf
+      \endverb
+    \endentry
+    \entry{BOHM19841}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2dee6e4f5983213d444090bf7fd8afc7}{%
+           family={Böhm},
+           familyi={B\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56fa1c9ea58607d54edffd55ef286457}{%
+           family={Farin},
+           familyi={F\bibinitperiod},
+           given={Gerald},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70f674af23d16313a0b675971e8d2d4c}{%
+           family={Kahmann},
+           familyi={K\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{65ca451186e33ea740be2b2b260ba8a3}
+      \strng{fullhash}{b55b48ec389ac7400ee8f72fd777ad5a}
+      \strng{bibnamehash}{b55b48ec389ac7400ee8f72fd777ad5a}
+      \strng{authorbibnamehash}{b55b48ec389ac7400ee8f72fd777ad5a}
+      \strng{authornamehash}{65ca451186e33ea740be2b2b260ba8a3}
+      \strng{authorfullhash}{b55b48ec389ac7400ee8f72fd777ad5a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167-8396}
+      \field{journaltitle}{Computer Aided Geometric Design}
+      \field{number}{1}
+      \field{title}{A survey of curve and surface methods in CAGD}
+      \field{volume}{1}
+      \field{year}{1984}
+      \field{pages}{1\bibrangedash 60}
+      \range{pages}{60}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0167-8396(84)90003-7
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0167839684900037
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0167839684900037
+      \endverb
+      \keyw{Surveys,interpolation,approximation,curves,surfaces,computational geometry,computer aided design}
+    \endentry
+    \entry{DeBoor}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=11c4e53ad7afb115a36f6c81c99701de}{%
+           family={Boor},
+           familyi={B\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{11c4e53ad7afb115a36f6c81c99701de}
+      \strng{fullhash}{11c4e53ad7afb115a36f6c81c99701de}
+      \strng{bibnamehash}{11c4e53ad7afb115a36f6c81c99701de}
+      \strng{authorbibnamehash}{11c4e53ad7afb115a36f6c81c99701de}
+      \strng{authornamehash}{11c4e53ad7afb115a36f6c81c99701de}
+      \strng{authorfullhash}{11c4e53ad7afb115a36f6c81c99701de}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Mathematical Sciences, New York: Springer, 1978}
+      \field{month}{01}
+      \field{title}{A Practical Guide to Spline}
+      \field{volume}{Volume 27}
+      \field{year}{1978}
+      \verb{doi}
+      \verb 10.2307/2006241
+      \endverb
+    \endentry
+    \entry{ChengY}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dfc7a3c38886304206ad71046e673c1c}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Yizong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{dfc7a3c38886304206ad71046e673c1c}
+      \strng{fullhash}{dfc7a3c38886304206ad71046e673c1c}
+      \strng{bibnamehash}{dfc7a3c38886304206ad71046e673c1c}
+      \strng{authorbibnamehash}{dfc7a3c38886304206ad71046e673c1c}
+      \strng{authornamehash}{dfc7a3c38886304206ad71046e673c1c}
+      \strng{authorfullhash}{dfc7a3c38886304206ad71046e673c1c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{8}
+      \field{title}{Mean shift, mode seeking, and clustering}
+      \field{volume}{17}
+      \field{year}{1995}
+      \field{pages}{790\bibrangedash 799}
+      \range{pages}{10}
+    \endentry
+    \entry{ShmmalaCBI}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=60e4bea516f7b29a3902234aaddf68f1}{%
+           family={Faten\bibnamedelimb Abu\bibnamedelima Shmmala},
+           familyi={F\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Wesam\bibnamedelima Ashour},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Global Advanced Research Journals}%
+      }
+      \strng{namehash}{60e4bea516f7b29a3902234aaddf68f1}
+      \strng{fullhash}{60e4bea516f7b29a3902234aaddf68f1}
+      \strng{bibnamehash}{60e4bea516f7b29a3902234aaddf68f1}
+      \strng{authorbibnamehash}{60e4bea516f7b29a3902234aaddf68f1}
+      \strng{authornamehash}{60e4bea516f7b29a3902234aaddf68f1}
+      \strng{authorfullhash}{60e4bea516f7b29a3902234aaddf68f1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Global Advanced Research Journal of Engineering, Technology and Innovation}
+      \field{number}{9}
+      \field{title}{Color Based Image Segmentation using Different Versions of K-Means in two Spaces}
+      \field{volume}{1}
+      \field{year}{2013}
+      \field{pages}{30\bibrangedash 41}
+      \range{pages}{12}
+    \endentry
+    \entry{GuptaRTWS}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3fbdf7d9f22ecc867a59b2d1863eeace}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Abhiraj},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3fbdf7d9f22ecc867a59b2d1863eeace}
+      \strng{fullhash}{3fbdf7d9f22ecc867a59b2d1863eeace}
+      \strng{bibnamehash}{3fbdf7d9f22ecc867a59b2d1863eeace}
+      \strng{authorbibnamehash}{3fbdf7d9f22ecc867a59b2d1863eeace}
+      \strng{authornamehash}{3fbdf7d9f22ecc867a59b2d1863eeace}
+      \strng{authorfullhash}{3fbdf7d9f22ecc867a59b2d1863eeace}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Methods in Sciences and Engineering}
+      \field{number}{2}
+      \field{title}{Real time wound segmentation/management using image processing on handheld devices}
+      \field{volume}{12}
+      \field{year}{2017}
+      \field{pages}{321\bibrangedash 329}
+      \range{pages}{9}
+    \endentry
+    \entry{Gustientiedina}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f43df4c3d59c6811fb5bf6843beed510}{%
+           family={Gustientiedina\bibnamedelima Gustientiedina},
+           familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Yenny\bibnamedelima Desnelita},
+           giveni={Y\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0,
+           suffix={M.\bibnamedelimi Hasmil\bibnamedelima Adiya},
+           suffixi={M\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Creative Commons Attribution-ShareAlike 4.0 International License.s}%
+      }
+      \strng{namehash}{f43df4c3d59c6811fb5bf6843beed510}
+      \strng{fullhash}{f43df4c3d59c6811fb5bf6843beed510}
+      \strng{bibnamehash}{f43df4c3d59c6811fb5bf6843beed510}
+      \strng{authorbibnamehash}{f43df4c3d59c6811fb5bf6843beed510}
+      \strng{authornamehash}{f43df4c3d59c6811fb5bf6843beed510}
+      \strng{authorfullhash}{f43df4c3d59c6811fb5bf6843beed510}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal Nasional Teknologi dan Sistem Informasi}
+      \field{number}{1}
+      \field{title}{Penerapan algoritma k-means untuk clustering data obat-obatan pada rsud pekanbaru}
+      \field{volume}{5}
+      \field{year}{2019}
+      \field{pages}{17\bibrangedash 24}
+      \range{pages}{8}
+    \endentry
+    \entry{kass}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=18bc86314ac2b2bc6cb8810eead32abc}{%
+           family={Kass},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44155a0ddcfd558a665a16833a7cfca7}{%
+           family={Witkin},
+           familyi={W\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd9aa5de7673e375889cc32997ef97df}{%
+           family={Terzopoulos},
+           familyi={T\bibinitperiod},
+           given={Demetri},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{30474e44a5493288406afde72e47b77e}
+      \strng{fullhash}{ee5173ac2cdc81307cc8a9ef0803807a}
+      \strng{bibnamehash}{ee5173ac2cdc81307cc8a9ef0803807a}
+      \strng{authorbibnamehash}{ee5173ac2cdc81307cc8a9ef0803807a}
+      \strng{authornamehash}{30474e44a5493288406afde72e47b77e}
+      \strng{authorfullhash}{ee5173ac2cdc81307cc8a9ef0803807a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of computer vision}
+      \field{number}{4}
+      \field{title}{Snakes: Active contour models}
+      \field{volume}{1}
+      \field{year}{1988}
+      \field{pages}{321\bibrangedash 331}
+      \range{pages}{11}
+    \endentry
+    \entry{khattab}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=09fbecd66138a6e9e42fabd24ff304f3}{%
+           family={Khattab},
+           familyi={K\bibinitperiod},
+           given={Dina},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9488cb59756435378a7d8e7cb77ff218}{%
+           family={Ebied},
+           familyi={E\bibinitperiod},
+           given={Hala\bibnamedelima Mousher},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e95e75a6870bf433127fe86a57bce8c9}{%
+           family={Hussein},
+           familyi={H\bibinitperiod},
+           given={Ashraf\bibnamedelima Saad},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e9c71ac2df805c671643ea87d336c0a}{%
+           family={Tolba},
+           familyi={T\bibinitperiod},
+           given={Mohamed\bibnamedelima Fahmy},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi}%
+      }
+      \strng{namehash}{f5dccff376a8ee3d43502c0790baad8a}
+      \strng{fullhash}{b172638f2fb56b2bd086aa8f7ea8a450}
+      \strng{bibnamehash}{f5dccff376a8ee3d43502c0790baad8a}
+      \strng{authorbibnamehash}{f5dccff376a8ee3d43502c0790baad8a}
+      \strng{authornamehash}{f5dccff376a8ee3d43502c0790baad8a}
+      \strng{authorfullhash}{b172638f2fb56b2bd086aa8f7ea8a450}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Scientific World Journal}
+      \field{title}{Color image segmentation based on different color space models using automatic GrabCut}
+      \field{volume}{2014}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{landen}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a98ad82dc98de02033863b04493b2903}{%
+           family={Landén},
+           familyi={L\bibinitperiod},
+           given={Ning\bibnamedelima Xu},
+           giveni={N\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c78eb5684a3d785e6281e2a0c194ff78}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Dongqing},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a15b9d562d3ce8f6c2cae5a92545cf1}{%
+           family={St{å}hle},
+           familyi={S\bibinitperiod},
+           given={Mona},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f70afe8ae9f298ff12e0f7f5128de9b6}
+      \strng{fullhash}{d1ae4d228309c7163c6c668de5267c46}
+      \strng{bibnamehash}{d1ae4d228309c7163c6c668de5267c46}
+      \strng{authorbibnamehash}{d1ae4d228309c7163c6c668de5267c46}
+      \strng{authornamehash}{f70afe8ae9f298ff12e0f7f5128de9b6}
+      \strng{authorfullhash}{d1ae4d228309c7163c6c668de5267c46}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cellular and Molecular Life Sciences}
+      \field{number}{20}
+      \field{title}{Transition from inflammation to proliferation: a critical step during wound healing}
+      \field{volume}{73}
+      \field{year}{2016}
+      \field{pages}{3861\bibrangedash 3885}
+      \range{pages}{25}
+    \endentry
+    \entry{lockyer2006controlling}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7205d01e767d7504575e25605570bd58}{%
+           family={Lockyer},
+           familyi={L\bibinitperiod},
+           given={P.S.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Birmingham}%
+      }
+      \strng{namehash}{7205d01e767d7504575e25605570bd58}
+      \strng{fullhash}{7205d01e767d7504575e25605570bd58}
+      \strng{bibnamehash}{7205d01e767d7504575e25605570bd58}
+      \strng{authorbibnamehash}{7205d01e767d7504575e25605570bd58}
+      \strng{authornamehash}{7205d01e767d7504575e25605570bd58}
+      \strng{authorfullhash}{7205d01e767d7504575e25605570bd58}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Controlling the Interpolation of NURBS Curves and Surfaces}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb https://books.google.co.id/books?id=Ewh30AEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.co.id/books?id=Ewh30AEACAAJ
+      \endverb
+    \endentry
+    \entry{YadavSeg}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a69953532b5ca3893ac3eb6e5631efc9}{%
+           family={Manoj\bibnamedelimb Kumar\bibnamedelima Yadav},
+           familyi={M\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           given={gargi\bibnamedelima Mukharjee},
+           giveni={g\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           suffix={Dhiraj\bibnamedelima Dhane},
+           suffixi={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Scientiﬁc Publishers}%
+      }
+      \strng{namehash}{a69953532b5ca3893ac3eb6e5631efc9}
+      \strng{fullhash}{a69953532b5ca3893ac3eb6e5631efc9}
+      \strng{bibnamehash}{a69953532b5ca3893ac3eb6e5631efc9}
+      \strng{authorbibnamehash}{a69953532b5ca3893ac3eb6e5631efc9}
+      \strng{authornamehash}{a69953532b5ca3893ac3eb6e5631efc9}
+      \strng{authorfullhash}{a69953532b5ca3893ac3eb6e5631efc9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mendical Imaging and Health Informatics}
+      \field{number}{1}
+      \field{title}{Segmentation of chronic wound areas by clustering techniques using selected color space}
+      \field{volume}{3}
+      \field{year}{2013}
+      \field{pages}{22\bibrangedash 29}
+      \range{pages}{8}
+    \endentry
+    \entry{Parsania}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2441fdcff1c9df7822cffb6fb40bca9a}{%
+           family={Parsania},
+           familyi={P\bibinitperiod},
+           given={Pankaj},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04359314019284b0820df8525e31ab13}{%
+           family={Virparia},
+           familyi={V\bibinitperiod},
+           given={Paresh},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a639a72ebe5f578ae57d24f01e005dea}
+      \strng{fullhash}{035dba1bcc5d4b79c4e5404150de76de}
+      \strng{bibnamehash}{035dba1bcc5d4b79c4e5404150de76de}
+      \strng{authorbibnamehash}{035dba1bcc5d4b79c4e5404150de76de}
+      \strng{authornamehash}{a639a72ebe5f578ae57d24f01e005dea}
+      \strng{authorfullhash}{035dba1bcc5d4b79c4e5404150de76de}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IJARCCE}
+      \field{month}{01}
+      \field{title}{A Comparative Analysis of Image Interpolation Algorithms}
+      \field{volume}{5}
+      \field{year}{2016}
+      \field{pages}{29\bibrangedash 34}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.17148/IJARCCE.2016.5107
+      \endverb
+    \endentry
+    \entry{PiegTill96}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3eaf67b9798d8cccc04b5a4802005b5b}{%
+           family={Piegl},
+           familyi={P\bibinitperiod},
+           given={Les},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0d912e18543fb8f2e878705ffa608f5}{%
+           family={Tiller},
+           familyi={T\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{38cae57bde5c437bf83c8c8386c70efd}
+      \strng{fullhash}{01e7e051514a3b20ca461c88cc1c1352}
+      \strng{bibnamehash}{01e7e051514a3b20ca461c88cc1c1352}
+      \strng{authorbibnamehash}{01e7e051514a3b20ca461c88cc1c1352}
+      \strng{authornamehash}{38cae57bde5c437bf83c8c8386c70efd}
+      \strng{authorfullhash}{01e7e051514a3b20ca461c88cc1c1352}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{second}
+      \field{title}{The NURBS Book}
+      \field{year}{1996}
+    \endentry
+    \entry{MRizki}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=79ef0af1edbaa6bdce5c39da66ec48f9}{%
+           family={Rizki},
+           familyi={R\bibinitperiod},
+           given={Muhamad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{79ef0af1edbaa6bdce5c39da66ec48f9}
+      \strng{fullhash}{79ef0af1edbaa6bdce5c39da66ec48f9}
+      \strng{bibnamehash}{79ef0af1edbaa6bdce5c39da66ec48f9}
+      \strng{authorbibnamehash}{79ef0af1edbaa6bdce5c39da66ec48f9}
+      \strng{authornamehash}{79ef0af1edbaa6bdce5c39da66ec48f9}
+      \strng{authorfullhash}{79ef0af1edbaa6bdce5c39da66ec48f9}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DETEKSI KELILING LUKA KRONIS MENGGUNAKAN ACTIVE CONTOUR (SNAKE) DAN ACTIVE CONTOUR YANG DITAMBAHKAN INTERPOLASI}
+      \field{year}{2022}
+    \endentry
+    \entry{Suzuki}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d5cf9a2f9f826873d4e0d6109e125b2a}{%
+           family={Satoshi\bibnamedelima Suzuki},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Keiichi\bibnamedelima Abe},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press. Inc.}%
+      }
+      \strng{namehash}{d5cf9a2f9f826873d4e0d6109e125b2a}
+      \strng{fullhash}{d5cf9a2f9f826873d4e0d6109e125b2a}
+      \strng{bibnamehash}{d5cf9a2f9f826873d4e0d6109e125b2a}
+      \strng{authorbibnamehash}{d5cf9a2f9f826873d4e0d6109e125b2a}
+      \strng{authornamehash}{d5cf9a2f9f826873d4e0d6109e125b2a}
+      \strng{authorfullhash}{d5cf9a2f9f826873d4e0d6109e125b2a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Vision, Graphics, and Image Processing}
+      \field{number}{1}
+      \field{title}{Topological structural analysis of digitized binary images by border following}
+      \field{volume}{30}
+      \field{year}{1985}
+      \field{pages}{32\bibrangedash 46}
+      \range{pages}{15}
+    \endentry
+    \entry{simon}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17b9be82270aa1d7796d3dc8a82dddae}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Patrick\bibnamedelima E},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{17b9be82270aa1d7796d3dc8a82dddae}
+      \strng{fullhash}{17b9be82270aa1d7796d3dc8a82dddae}
+      \strng{bibnamehash}{17b9be82270aa1d7796d3dc8a82dddae}
+      \strng{authorbibnamehash}{17b9be82270aa1d7796d3dc8a82dddae}
+      \strng{authornamehash}{17b9be82270aa1d7796d3dc8a82dddae}
+      \strng{authorfullhash}{17b9be82270aa1d7796d3dc8a82dddae}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{https://emedicine.medscape.com/article/884594-overview}
+      \field{title}{Skin Wound Healing: Overview, Hemostasis, Inflammatory Phase}
+      \field{year}{2018}
+    \endentry
+    \entry{ZhengX}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12c7a045c5cf16735d9984bd5c7c3a7f}{%
+           family={Xingming\bibnamedelima Zheng},
+           familyi={X\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Ningzhong\bibnamedelima Liu},
+           giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{12c7a045c5cf16735d9984bd5c7c3a7f}
+      \strng{fullhash}{12c7a045c5cf16735d9984bd5c7c3a7f}
+      \strng{bibnamehash}{12c7a045c5cf16735d9984bd5c7c3a7f}
+      \strng{authorbibnamehash}{12c7a045c5cf16735d9984bd5c7c3a7f}
+      \strng{authornamehash}{12c7a045c5cf16735d9984bd5c7c3a7f}
+      \strng{authorfullhash}{12c7a045c5cf16735d9984bd5c7c3a7f}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2012 IEEE International Conference on Intelligent Control, Automatic Detection and High-End Equipment (ICADE)}
+      \field{title}{Color recognition of clothes based on k-means and mean shift}
+      \field{year}{2012}
+      \field{pages}{22\bibrangedash 29}
+      \range{pages}{8}
+    \endentry
+    \entry{zhao}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f0c08c47a1adb1211222426d7144d6aa}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Ruilong},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76b70b7540e6e22431f495cc84f1acdd}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Helena},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2684e285c0b68b81b9a1cc6e4738e049}{%
+           family={Clarke},
+           familyi={C\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59a1d0dd030cb397b9e2c9de64c3e2cf}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=095871fd5922038db2928fbb19fd3a83}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Meilang},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{59b8bcb2efb6e8cf3f8be323eecf3ce8}
+      \strng{fullhash}{98b7e85990a8d39b339d6a67a2fc11de}
+      \strng{bibnamehash}{59b8bcb2efb6e8cf3f8be323eecf3ce8}
+      \strng{authorbibnamehash}{59b8bcb2efb6e8cf3f8be323eecf3ce8}
+      \strng{authornamehash}{59b8bcb2efb6e8cf3f8be323eecf3ce8}
+      \strng{authorfullhash}{98b7e85990a8d39b339d6a67a2fc11de}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of molecular sciences}
+      \field{number}{12}
+      \field{title}{Inflammation in chronic wounds}
+      \field{volume}{17}
+      \field{year}{2016}
+      \field{pages}{2085}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
