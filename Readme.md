@@ -13,4 +13,4 @@ Skripsi ini meneliti pemakaian border following beserta interpolasi global untuk
 
 ## [Spreadsheet link](https://docs.google.com/spreadsheets/d/1sAfDUz2gPkzkHUdzrscBi5KCIbetVJ9_o33jaIca5Bk/edit?usp=sharing)
 
-## [Jurnal](Docs/Jurnal/Jurnal Skripsi - Pramudio - 1313619013.pdf)
+## [Jurnal](Docs/Jurnal/JurnalSkripsi-Pramudio-1313619013.pdf)
